@@ -140,14 +140,10 @@ Tondiarpet metro.html
 ## OUTPUT
 
 ![alt text](../eran/mapapp/static/map.png)
-
-![alt text](<../eran/mapapp/static/Screenshot (18).png>)
-
-![alt text](<../eran/mapapp/static/Screenshot (19).png>)
-
-![alt text](<../eran/mapapp/static/Screenshot (21).png>)
-
-![alt text](<../eran/mapapp/static/Screenshot (20).png>)
+![alt text](<High court metro.png.png>)
+![alt text](<Sri Kandaswamy Temple.png.png>)
+![alt text](<N4 beach.png.png>)
+![alt text](<Tondiarpet metro.png.png>)
 
 
 ## RESULT
