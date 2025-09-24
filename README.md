@@ -140,9 +140,13 @@ Tondiarpet metro.html
 ## OUTPUT
 
 ![alt text](../eran/mapapp/static/map.png)
+
 ![alt text](<../eran/mapapp/static/Screenshot (18).png>)
+
 ![alt text](<../eran/mapapp/static/Screenshot (19).png>)
+
 ![alt text](<../eran/mapapp/static/Screenshot (21).png>)
+
 ![alt text](<../eran/mapapp/static/Screenshot (20).png>)
 
 
