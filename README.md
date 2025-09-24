@@ -139,7 +139,7 @@ Tondiarpet metro.html
 
 ## OUTPUT
 
-![alt text](../eran/mapapp/static/map.png)
+![alt text](map.png)
 ![alt text](<High court metro.png.png>)
 ![alt text](<Sri Kandaswamy Temple.png.png>)
 ![alt text](<N4 beach.png.png>)
